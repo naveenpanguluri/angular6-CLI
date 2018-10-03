@@ -8,13 +8,13 @@ To begin, make sure you have NodeJS (v8.9+) and NPM (v5.5.1+) installed on your 
 ## Getting Started
 To install the Angular CLI:
 
-npm install -g @angular/cli
+`npm install -g @angular/cli`
 
 Generating and serving an Angular project via a development server Create and run a new project:
 
-ng new my-project
-cd my-project
-ng serve
+`ng new my-project`
+`cd my-project`
+`ng serve`
 
 ## Development server
 
